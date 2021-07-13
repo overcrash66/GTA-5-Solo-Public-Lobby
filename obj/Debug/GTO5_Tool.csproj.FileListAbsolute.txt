@@ -1,0 +1,13 @@
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.csprojAssemblyReference.cache
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.Form1.resources
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.Form1.en.resources
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.csproj.GenerateResource.cache
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\bin\Debug\GTO5_Tool.exe.config
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\bin\Debug\GTO5_Tool.exe
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\bin\Debug\GTO5_Tool.pdb
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\bin\Debug\en\GTO5_Tool.resources.dll
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.Properties.Resources.resources
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.csproj.CoreCompileInputs.cache
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\en\GTO5_Tool.resources.dll
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.exe
+C:\Users\CRASH66\Desktop\gg\GTA-5-Solo-Public-Lobby\obj\Debug\GTO5_Tool.pdb
